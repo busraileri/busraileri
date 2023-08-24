@@ -1,30 +1,32 @@
-### Hi there, I'm Büşra👋
+### Hi there, I'm Büşra🐝
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-💻 I am proficient in programming languages such as Kotlin and Java. Additionally, I have experience in designing user interfaces using XML.
 
-📱 I aspire to contribute to users' enhanced experiences by paying attention to the innovations offered by Google's Android platform and adhering to best app development practices.
+ I am currently engaged in open-source projects and working on my own projects.
+## 🚀💻 Technologies & Tools
 
-🚀 I am currently engaged in open-source projects and working on my own projects.
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-📚 I am continuously enhancing my knowledge by keeping up with new technologies and development trends.
+----
+
+📫 If you'd like to get in touch, you can reach me
+<a href="mailto:busrailerii@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"   align="center"    alt="Busra Ileri" height="30" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-ileri/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Busra Ileri" height="30" width="40" /></a><t>
+
+----
+
+<img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+:sunny: Have a nice day!
 
 
-📫 If you'd like to get in touch, you can reach me at busrailerii@gmail.com or through my LinkedIn profile.
 
-Don't forget to follow me on my social media accounts!
 
-<!--
-**busraileri/busraileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

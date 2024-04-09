@@ -5,7 +5,7 @@
  I am currently engaged in open-source projects and working on my own projects.
 ## 🚀💻 Technologies & Tools
 
-![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+[Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)

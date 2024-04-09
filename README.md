@@ -1,4 +1,6 @@
-### Hi there, I'm Büşra✨
+### Hi there, I'm Büşra✨ 
+ <img width = "240" align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 
 I am currently engaged in open-source projects and working on my own projects.
 ## 🚀💻 Technologies & Tools
@@ -16,7 +18,6 @@ I am currently engaged in open-source projects and working on my own projects.
 
  🌟 Have a nice day!
 
- <img width = "240" align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
 
 

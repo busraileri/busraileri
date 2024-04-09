@@ -16,7 +16,7 @@ I am currently engaged in open-source projects and working on my own projects.
 
  🌟 Have a nice day!
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+ <img width = "240" align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
 
 

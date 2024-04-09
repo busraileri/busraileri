@@ -1,9 +1,10 @@
 ### Hi there, I'm Büşra✨
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<!--img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" /-->
 
  I am currently engaged in open-source projects and working on my own projects.
 ## 🚀💻 Technologies & Tools
+
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)

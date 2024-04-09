@@ -1,4 +1,4 @@
-### Hi there, I'm Büşra🐝
+### Hi there, I'm Büşra✨
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-ileri/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Busra Ileri" height="30" width="40" /></a><t> 
+      alt="Busra Ileri" height="30" width="40" /></a><t> 🐝
 
 ----
 -->

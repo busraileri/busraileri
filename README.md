@@ -22,14 +22,14 @@
 </a>
 <a href="https://www.linkedin.com/in/b%C3%BC%C5%9Fra-ileri/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Busra Ileri" height="30" width="40" /></a><t> 🐝
+      alt="Busra Ileri" height="30" width="40" /></a><t> 🐝  :sunny:
 
 ----
 -->
 
 <img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-:sunny: Have a nice day!
+ 🌟 Have a nice day!
 
 
 
